@@ -1,0 +1,67 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>Bodleian Library MS. Abinger c. 58</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://iiif.bodleian.ox.ac.uk/iiif/manifest/05880098-0c28-4c85-acf1-25146976866e.json" xml:id="BodleianLibraryMS.Abingerc.58">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="5410" lry="6460" sameAs="https://iiif.bodleian.ox.ac.uk/iiif/canvas/76648a6a-9e87-45e5-a4e6-a9ff95a65b55.json">
+			<label>fol. 1r</label>
+			<graphic mimeType="application/json" url="https://iiif.bodleian.ox.ac.uk/iiif/image/76648a6a-9e87-45e5-a4e6-a9ff95a65b55"/>
+		</surface>
+		<surface xml:id="f001" ulx="0" uly="0" lrx="5408" lry="6480" sameAs="https://iiif.bodleian.ox.ac.uk/iiif/canvas/2344e31b-6b8a-47e9-b369-b9106548a1e3.json">
+			<label>fol. 1v</label>
+			<graphic mimeType="application/json" url="https://iiif.bodleian.ox.ac.uk/iiif/image/2344e31b-6b8a-47e9-b369-b9106548a1e3"/>
+		</surface>
+	</facsimile>
+	<sourceDoc xml:id="Frankenstein">
+		<surface>
+			<line>satisfied that nothing on earth will have the power</line>
+			<line>to interrupt my tranquillity.</line>
+			<line>“Do not let this letter disturb you; do not</line>
+			<line>answer tomorrow, or the next day, or even until</line>
+			<line>you come, if it will give you pain. My uncle will</line>
+			<line>send me news of your health, and if I see but</line>
+			<line>one smile on your lips when we meet, occasioned</line>
+			<line>by this or any other exertion of mine, I</line>
+			<line>shall need no other happiness.</line>
+			<line/>
+			<line>Elizabeth Lavenza</line>
+			<line/>
+			<line>Geneva, May 18th, 17—</line>
+			<line/>
+			<line>This letter revived in my memory what I had</line>
+			<line>before forgotten, the threat of the fiend—“I will be</line>
+			<line>with you on your wedding-night!” Such was my</line>
+			<line/>
+			<line>sentence, and on that night would the dæmon employ</line>
+			<line>every art to destroy me and tear me from the</line>
+			<line>glimpse of happiness which promised partly to console</line>
+			<line>my sufferings. On that night he had determined</line>
+			<line>to consummate his crimes by my death. Well, be it so;</line>
+			<line>a deadly struggle would then assuredly take place,</line>
+			<line>in which if he were victorious I should be at</line>
+			<line>peace and his power over me be at an end. If</line>
+			<line>he were vanquished, I should be a free man. Alas!</line>
+			<line>What freedom? Such as the peasant enjoys when</line>
+			<line>his family have been massacred before his</line>
+			<line>eyes, his cottage burnt, his lands laid waste, and he is</line>
+			<line>turned adrift, homeless, penniless, and alone, but</line>
+			<line>free. Such would be my liberty except that in</line>
+			<line>my Elizabeth I possessed a treasure, alas,</line>
+			<line>balanced by those horrors of remorse and guilt</line>
+			<line>which would pursue me until death.</line>
+			<line>Sweet and beloved Elizabeth! I read and re-</line>
+			<line>read her letter, and some softened feelings stole</line>
+			<line/>
+		</surface>
+	</sourceDoc>
+</TEI>
