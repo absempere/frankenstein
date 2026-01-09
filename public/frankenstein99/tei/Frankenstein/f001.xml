@@ -1,24 +1,4 @@
-<sourceDoc xmlns="http://www.tei-c.org/ns/1.0" xml:id="Frankenstein">
-		<surface facs="#f000">
-			<line>satisfied that nothing on earth will have the power</line>
-			<line>to interrupt my tranquillity.</line>
-			<line>“Do not let this letter disturb you; do not</line>
-			<line>answer tomorrow, or the next day, or even until</line>
-			<line>you come, if it will give you pain. My uncle will</line>
-			<line>send me news of your health, and if I see but</line>
-			<line>one smile on your lips when we meet, occasioned</line>
-			<line>by this or any other exertion of mine, I</line>
-			<line>shall need no other happiness.</line>
-			<line/>
-			<line>Elizabeth Lavenza</line>
-			<line/>
-			<line>Geneva, May 18th, 17—</line>
-			<line/>
-			<line>This letter revived in my memory what I had</line>
-			<line>before forgotten, the threat of the fiend—“I will be</line>
-			<line>with you on your wedding-night!” Such was my</line>
-		</surface>
-		<surface facs="#f001">
+<surface xmlns="http://www.tei-c.org/ns/1.0" facs="#f001">
 			<line>sentence, and on that night would the dæmon employ</line>
 			<line>every art to destroy me and tear me from the</line>
 			<line>glimpse of happiness which promised partly to console</line>
@@ -39,4 +19,3 @@
 			<line>Sweet and beloved Elizabeth! I read and re-</line>
 			<line>read her letter, and some softened feelings stole</line>
 		</surface>
-	</sourceDoc>

@@ -23,7 +23,7 @@
 		</surface>
 	</facsimile>
 	<sourceDoc xml:id="Frankenstein">
-		<surface>
+		<surface facs="#f000">
 			<line>satisfied that nothing on earth will have the power</line>
 			<line>to interrupt my tranquillity.</line>
 			<line>“Do not let this letter disturb you; do not</line>
@@ -41,7 +41,8 @@
 			<line>This letter revived in my memory what I had</line>
 			<line>before forgotten, the threat of the fiend—“I will be</line>
 			<line>with you on your wedding-night!” Such was my</line>
-			<line/>
+		</surface>
+		<surface facs="#f001">
 			<line>sentence, and on that night would the dæmon employ</line>
 			<line>every art to destroy me and tear me from the</line>
 			<line>glimpse of happiness which promised partly to console</line>
@@ -61,7 +62,6 @@
 			<line>which would pursue me until death.</line>
 			<line>Sweet and beloved Elizabeth! I read and re-</line>
 			<line>read her letter, and some softened feelings stole</line>
-			<line/>
 		</surface>
 	</sourceDoc>
 </TEI>

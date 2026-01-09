@@ -45,7 +45,40 @@
 					"fol. 1r"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f000/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f000/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://absempere.github.io/frankenstein//frankenstein99/tei/Frankenstein/f000.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f000"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f000/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://absempere.github.io/frankenstein//frankenstein99/html/Frankenstein/f000.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f000"
+						}
+					]
+				}
+			]
 		},
 		{
 			"id": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f001",
@@ -86,7 +119,40 @@
 					"fol. 1v"
 				]
 			},
-			"annotations": []
+			"annotations": [
+				{
+					"id": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f001/annotationPage/1",
+					"type": "AnnotationPage",
+					"items": [
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f001/annotationPage/1/annotation/0",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://absempere.github.io/frankenstein//frankenstein99/tei/Frankenstein/f001.xml",
+								"format": "text/xml",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f001"
+						},
+						{
+							"@context": "https://www.w3.org/ns/anno.jsonld",
+							"id": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f001/annotationPage/1/annotation/1",
+							"type": "Annotation",
+							"motivation": "supplementing",
+							"body": {
+								"id": "https://absempere.github.io/frankenstein//frankenstein99/html/Frankenstein/f001.html",
+								"format": "text/html",
+								"type": "TextPartial",
+								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
+							},
+							"target": "https://absempere.github.io/frankenstein//frankenstein99/iiif/canvas/f001"
+						}
+					]
+				}
+			]
 		}
 	],
 	"label": {
